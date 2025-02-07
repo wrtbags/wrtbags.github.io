@@ -23,12 +23,12 @@ fingerprintAlgorithm = "sha256"
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
   # logo = "img/logo.jpg"
   # logoDark = "img/dark-logo.jpg"
-  showTitle = true
+  showTitle = false
 
 [footer]
   showCopyright = true
   showThemeAttribution = true
-  showAppearanceSwitcher = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
